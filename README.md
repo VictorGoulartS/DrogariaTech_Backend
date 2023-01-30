@@ -14,7 +14,7 @@ Nos dias atuais o uso de produtos naturais é uma questão de saúde, seu uso co
 ## Back-end
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
-### Para rodar o projeto:
+### Instruções:
 Executar o comando `npm install nodemon express axios mongoose dotenv cors` para instalar todas as dependências do projeto.
 
 Criar um arquivo chamado `.env` na raiz do projeto e configurar em cada um dos microsserviços: `produtos` e `lojas`.
