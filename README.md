@@ -15,7 +15,7 @@ Nos dias atuais o uso de produtos naturais é uma questão de saúde, seu uso co
 ### Instruções:
 Executar o comando `npm install nodemon express axios mongoose dotenv cors` para instalar todas as dependências do projeto.
 
-Criar um arquivo chamado `.env` na raiz do projeto e configurar em cada um dos microsserviços: `produtos` e `lojas`.
+Criar um arquivo chamado `.env` e configurar em cada um dos microsserviços: `produtos` e `lojas`.
 
 Executar o comando `npm start` em um terminal separado para cada um dos microsserviços.
 
